@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Kexin Liao
 
 <!--
 **COCO0511/COCO0511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🚀 About Me
+- 💻 I love coding in Python, C++, JAVA, HTML/CSS/JavaScript.
+- 🔬 Interested in AI, Cybersecurity, and Cloud Computing.
+- 🌱 Currently learning Raft and advanced React.
+
+### 🏆 Contributed Projects
+- 🚀 [SignFlow Hackathon](https://github.com/Remi12138/SignFlow_hackathon2025) [Devpost](https://devpost.com/software/signflow-live-asl-interpretation-learning)
+- 🏗 [Social-flare Hackathon](https://github.com/xxyen/social-flare) [Devpost](https://devpost.com/software/social-flare)
+
