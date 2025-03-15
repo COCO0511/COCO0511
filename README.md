@@ -28,5 +28,7 @@ Here are some ideas to get you started:
 - 🐦 [Gitlab](https://gitlab.oit.duke.edu/dashboard/projects)
 - 💼 [LinkedIn](https://www.linkedin.com/in/kexin-liao-7b7298273)
 - 📧 [Email Me](mailto:kl460@duke.edu)
+- 🌱 [Devpost](https://devpost.com/COCO0511?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- 🌱 [Devpost For School](https://devpost.com/kl460?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 
