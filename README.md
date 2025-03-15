@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - 🌱 Currently learning Raft and advanced React.
 
 ### 🏆 Contributed Projects
-- 🚀 [SignFlow Hackathon](https://github.com/Remi12138/SignFlow_hackathon2025) [Devpost](https://devpost.com/software/signflow-live-asl-interpretation-learning)
-- 🏗 [Social-flare Hackathon](https://github.com/xxyen/social-flare) [Devpost](https://devpost.com/software/social-flare)
+- 🚀 [SignFlow Hackathon](https://github.com/Remi12138/SignFlow_hackathon2025)
+     [Devpost](https://devpost.com/software/signflow-live-asl-interpretation-learning)
+- 🏗 [Social-flare Hackathon](https://github.com/xxyen/social-flare)
+     [Devpost](https://devpost.com/software/social-flare)
 
